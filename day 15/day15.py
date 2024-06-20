@@ -1,5 +1,4 @@
 import math
-
 class Lingkaran:
     def __init__(self, radius):
         self.radius = radius
